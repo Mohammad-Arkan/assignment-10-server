@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "meal_img": "https://i.postimg.cc/bZhR1PvY/meal-1.jpg",
+      "meal_img": "https://i.ibb.co/B4TnRT5/farfalle-pasta-durum-wheat-with-baked-meatballs-PQBKRNX-768x768.jpg",
       "meal_name": "Delicious Pasta",
       "description": "A mouthwatering plate of pasta with a rich tomato sauce and fresh basil.",
       "price": 12.99,
@@ -25,7 +25,7 @@
     },
     {
       "id": 2,
-      "meal_img": "https://i.postimg.cc/XZNcDgFT/meal-2.jpg",
+      "meal_img": "https://i.ibb.co/prWBZ6f/grilled-beef-steak-on-dark-wooden-table-P4-NLM25-768x768.jpg",
       "meal_name": "Grilled Salmon",
       "description": "A succulent grilled salmon fillet with lemon butter sauce.",
       "price": 18.50,
@@ -50,7 +50,7 @@
     },
     {
       "id": 3,
-      "meal_img": "https://i.postimg.cc/1nf0y5vB/meal-3.jpg",
+      "meal_img": "https://i.ibb.co/ncN6d8V/chicken-satay-or-sate-ayam-malaysian-famous-food-PH5-F7-UM-768x768.jpg",
       "meal_name": "Vegetable Stir-Fry",
       "description": "A vibrant mix of fresh vegetables stir-fried to perfection.",
       "price": 10.99,
@@ -76,7 +76,7 @@
     },
     {
       "id": 4,
-      "meal_img": "https://i.postimg.cc/8J9RcQ3S/meal-4.jpg",
+      "meal_img": "https://i.ibb.co/THYmVq8/baked-meatballs-of-chicken-fillet-in-tomato-sauce-PGK6-PTM-768x768.jpg",
       "meal_name": "Tender Beef Steak",
       "description": "A juicy and tender beef steak cooked to perfection.",
       "price": 22.99,
