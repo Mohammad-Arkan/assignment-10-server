@@ -6,7 +6,7 @@
       "description": "A mouthwatering plate of pasta with a rich tomato sauce and fresh basil.",
       "price": 12.99,
       "chef_name": "John Smith",
-      "chef_img": "https://example.com/chef1.jpg",
+      "chef_img": " https://themeholy.com/wordpress/pizzan/wp-content/uploads/2023/06/team_2_5.jpg",
       "bio": "Passionate about creating delightful Italian dishes.",
       "likes": 126,
       "phone_number": "+1234567890",
@@ -30,7 +30,7 @@
       "description": "A succulent grilled salmon fillet with lemon butter sauce.",
       "price": 18.50,
       "chef_name": "Emily Johnson",
-      "chef_img": "https://example.com/chef2.jpg",
+      "chef_img": "https://themeholy.com/wordpress/pizzan/wp-content/uploads/2023/06/team_2_2.jpg",
       "bio": "Specializing in creating healthy and flavorful seafood dishes.",
       "likes": 85,
       "phone_number": "+9876543210",
@@ -55,7 +55,7 @@
       "description": "A vibrant mix of fresh vegetables stir-fried to perfection.",
       "price": 10.99,
       "chef_name": "Anna Lee",
-      "chef_img": "https://example.com/chef3.jpg",
+      "chef_img": "https://themeholy.com/wordpress/pizzan/wp-content/uploads/2023/06/team_2_4.jpg",
       "bio": "Expert in creating delightful vegetarian and vegan dishes.",
       "likes": 95,
       "phone_number": "+5555555555",
@@ -81,7 +81,7 @@
       "description": "A juicy and tender beef steak cooked to perfection.",
       "price": 22.99,
       "chef_name": "Michael Adams",
-      "chef_img": "https://example.com/chef4.jpg",
+      "chef_img": "https://themeholy.com/wordpress/pizzan/wp-content/uploads/2023/06/team_2_3.jpg",
       "bio": "Mastery in preparing delectable meat dishes.",
       "likes": 115,
       "phone_number": "+1111111111",
@@ -97,30 +97,6 @@
       ],
       "method_of_cooking": "Pan-sear steak with garlic, butter, and rosemary, then let it rest before serving.",
       "rating": 4.9
-    },
-    {
-      "id": 5,
-      "meal_img": "https://example.com/meal5.jpg",
-      "meal_name": "Decadent Chocolate Cake",
-      "description": "A heavenly chocolate cake with layers of rich ganache and creamy frosting.",
-      "price": 15.99,
-      "chef_name": "Sophia Williams",
-      "chef_img": "https://example.com/chef5.jpg",
-      "bio": "Dessert expert with a flair for creating delightful cakes.",
-      "likes": 140,
-      "phone_number": "+2222222222",
-      "experience": "9+ years of culinary experience.",
-      "recipe_name": "Ultimate Chocolate Layer Cake",
-      "ingredients": [
-        "Chocolate",
-        "Butter",
-        "Sugar",
-        "Eggs",
-        "Flour",
-        "Cream",
-        "Vanilla"
-      ],
-      "method_of_cooking": "Prepare chocolate cake layers, ganache, and frosting, then assemble the cake.",
-      "rating": 5.0
     }
+  
   ]

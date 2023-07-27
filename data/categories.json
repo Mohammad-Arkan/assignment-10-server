@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "chef_name": "John Doe",
+      "chef_img": " https://themeholy.com/wordpress/pizzan/wp-content/uploads/2023/06/team_2_5.jpg",
+      "position": "Head Chef",
+      "social_media": {
+        "Facebook": "https://www.facebook.com/johndoechef",
+        "email": "john.doe@example.com",
+        "twitter": "https://twitter.com/johndoechef",
+        "linkedin": "https://www.linkedin.com/in/johndoechef"
+      }
+    },
+    {
+      "id": 2,
+      "chef_name": "Jane Smith",
+      "chef_img": "https://themeholy.com/wordpress/pizzan/wp-content/uploads/2023/06/team_2_2.jpg",
+      "position": "Sous Chef",
+      "social_media": {
+        "Facebook": "https://www.facebook.com/janesmithchef",
+        "email": "jane.smith@example.com",
+        "twitter": "https://twitter.com/janesmithchef",
+        "linkedin": "https://www.linkedin.com/in/janesmithchef"
+      }
+    },
+    {
+      "id": 3,
+      "chef_name": "Michael Johnson",
+      "chef_img": "https://themeholy.com/wordpress/pizzan/wp-content/uploads/2023/06/team_2_4.jpg",
+      "position": "Pastry Chef",
+      "social_media": {
+        "Facebook": "https://www.facebook.com/michaeljohnsonchef",
+        "email": "michael.johnson@example.com",
+        "twitter": "https://twitter.com/michaeljohnsonchef",
+        "linkedin": "https://www.linkedin.com/in/michaeljohnsonchef"
+      }
+    },
+    {
+      "id": 4,
+      "chef_name": "Emily Lee",
+      "chef_img": "https://themeholy.com/wordpress/pizzan/wp-content/uploads/2023/06/team_2_3.jpg",
+      "position": "Executive Chef",
+      "social_media": {
+        "Facebook": "https://www.facebook.com/emilyleechef",
+        "email": "emily.lee@example.com",
+        "twitter": "https://twitter.com/emilyleechef",
+        "linkedin": "https://www.linkedin.com/in/emilyleechef"
+      }
+    }
+  ]

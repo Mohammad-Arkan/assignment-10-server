@@ -3,14 +3,14 @@ const app = express()
 const cors = require('cors')
 const port = process.env.PORT || 5000;
 
-const meals = require('./data/meals.json')
+const categories = require('./data/categories.json')
 app.use(cors());
 
 app.get('/', (req, res) => {
     res.send('Assignment-10 is running')
 });
-app.get('/meals', (req, res)=> {
-    res.send(meals)
+app.get('/categories', (req, res)=> {
+    res.send(categories);
 })
 
 app.listen(port,()=>{
